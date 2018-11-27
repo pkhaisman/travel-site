@@ -1,0 +1,14 @@
+$mainBlue: #2f5572;
+
+h1 {
+    font-size: 16px;
+    columns: 200px 2;
+    color: $mainBlue;
+}
+
+.box {
+    a {
+        display: block;
+        padding: 10px;
+    }
+}
